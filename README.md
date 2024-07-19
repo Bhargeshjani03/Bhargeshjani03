@@ -58,7 +58,7 @@ My goal is to become a professional app developer and create innovative and imme
 
 ## Contact
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) or email me at [your.email@example.com].
+Feel free to reach out to me on [LinkedIn]www.linkedin.com/in/bhargesh-jani-419864249 or email me at janibhargesh@gmail.com
 
 ---
 
