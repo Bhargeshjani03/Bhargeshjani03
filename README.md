@@ -1,6 +1,6 @@
 # Hi there! I'm Bhargesh Jani 👋
 
-I'm a passionate developer with a strong interest in MERN stack development, Android app development, and game design. I'm currently pursuing a Bachelor of Computer Applications degree at Saurashtra University. I have also completed a Bachelor of Technology degree in Information Technology from Birla Vishvakarma Mahavidyalaya.
+I'm a passionate developer with a strong interest in MERN stack development, Android app development, and game design. I'm currently pursuing a Bachelor of Computer Applications degree at Saurashtra University. I have also pursued a Bachelor of Technology degree in Information Technology from Birla Vishvakarma Mahavidyalaya.
 
 ## Skills
 
