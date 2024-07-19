@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bhargeshjani03
-- 👀 I’m interested in ...MERn Stack development
+- 👀 I’m interested in ...MERN Stack development
 - 🌱 I’m currently learning ... android app development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...janibhargesh@gmail.com
